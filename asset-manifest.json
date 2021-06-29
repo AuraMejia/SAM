@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/https//AuraMejia.github.io/SAM/static/css/main.d949a6fe.chunk.css",
+    "main.js": "/https//AuraMejia.github.io/SAM/static/js/main.52e3f991.chunk.js",
+    "main.js.map": "/https//AuraMejia.github.io/SAM/static/js/main.52e3f991.chunk.js.map",
+    "runtime-main.js": "/https//AuraMejia.github.io/SAM/static/js/runtime-main.472ee34c.js",
+    "runtime-main.js.map": "/https//AuraMejia.github.io/SAM/static/js/runtime-main.472ee34c.js.map",
+    "static/js/2.6ef1dba9.chunk.js": "/https//AuraMejia.github.io/SAM/static/js/2.6ef1dba9.chunk.js",
+    "static/js/2.6ef1dba9.chunk.js.map": "/https//AuraMejia.github.io/SAM/static/js/2.6ef1dba9.chunk.js.map",
+    "static/js/3.ea440219.chunk.js": "/https//AuraMejia.github.io/SAM/static/js/3.ea440219.chunk.js",
+    "static/js/3.ea440219.chunk.js.map": "/https//AuraMejia.github.io/SAM/static/js/3.ea440219.chunk.js.map",
+    "index.html": "/https//AuraMejia.github.io/SAM/index.html",
+    "static/css/main.d949a6fe.chunk.css.map": "/https//AuraMejia.github.io/SAM/static/css/main.d949a6fe.chunk.css.map",
+    "static/js/2.6ef1dba9.chunk.js.LICENSE.txt": "/https//AuraMejia.github.io/SAM/static/js/2.6ef1dba9.chunk.js.LICENSE.txt",
+    "static/media/B1.4e798ab5.jpg": "/https//AuraMejia.github.io/SAM/static/media/B1.4e798ab5.jpg",
+    "static/media/B2.65fc8357.jpg": "/https//AuraMejia.github.io/SAM/static/media/B2.65fc8357.jpg",
+    "static/media/B3.6df24e22.jpg": "/https//AuraMejia.github.io/SAM/static/media/B3.6df24e22.jpg",
+    "static/media/Hind-Light.54de0041.woff": "/https//AuraMejia.github.io/SAM/static/media/Hind-Light.54de0041.woff",
+    "static/media/logo.6ce24c58.svg": "/https//AuraMejia.github.io/SAM/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.472ee34c.js",
+    "static/js/2.6ef1dba9.chunk.js",
+    "static/css/main.d949a6fe.chunk.css",
+    "static/js/main.52e3f991.chunk.js"
+  ]
+}
